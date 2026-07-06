@@ -1,0 +1,11 @@
+# Default: ignore all
+*
+
+# Whitelist:
+!/.gitignore
+!/.gitconfig
+!/.bash_aliases
+!/.vimrc
+!/.ssh/
+!/.config/
+

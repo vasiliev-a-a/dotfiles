@@ -1,0 +1,7 @@
+# Default: ignore all
+*
+
+# Whitelist:
+!/.gitignore
+!/htoprc
+
